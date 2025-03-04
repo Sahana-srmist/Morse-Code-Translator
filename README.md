@@ -1,4 +1,5 @@
 Morse Code Translator 🔡➝ •–• --- •••–
+
 ![Morse Code Translator Circuit]([morse_code_diagram.jpeg](https://github.com/Sahana-srmist/Morse-Code-Translator/blob/main/morse%20code%20translator.jpeg.jpeg))
 
 Tinkercad Simulation:
